@@ -3,6 +3,7 @@ Feature: [Front] Android Adicionar Status
 
   Conseguir capturar status "Atualizando" do retorno da Olivia
 
+  @ITAU-1 @OPEN
   Scenario: Verificar Status Atualizando 
     Dado que capturo o link de 'agregador_carteiras' apartir da api status com agencia '3977',conta '0057722',dac '4', cpf '30566988801', segmento 'L100'
     Quando acesso a api de agregador_carteiras
