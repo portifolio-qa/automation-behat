@@ -1,2 +1,2 @@
-@capturar @do
+@do
 Feature: [Front] Android Adicionar Status
