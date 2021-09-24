@@ -1,2 +1,2 @@
-@Conseguir @capturar @status @"Atualizando" @do @retorno @da @Olivia
+@Conseguir @capturar @status @"Atualizando" @do @retorno @da
 Feature: [Front] Android Adicionar Status
